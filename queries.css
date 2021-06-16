@@ -1,0 +1,14 @@
+@media only screen and (max-width: 480px) {
+  .joke {
+    margin: 2rem auto;
+    font-size: 2.5rem;
+    line-height: 2.5rem;
+  }
+}
+@media only screen and (max-width: 767px) {
+  .joke {
+    margin: 2rem auto;
+    font-size: 2rem;
+    line-height: 3rem;
+  }
+}
