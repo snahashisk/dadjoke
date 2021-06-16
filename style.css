@@ -69,3 +69,12 @@ h3 {
 .btn:focus {
   outline: 0;
 }
+
+footer {
+  color: rgb(156, 156, 156);
+  margin: 10rem auto 0 auto;
+}
+
+footer p {
+  font-size: 1.5rem;
+}
