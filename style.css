@@ -8,7 +8,7 @@
 }
 body {
   background-image: linear-gradient(rgba(0, 0, 0, 0.274), rgba(0, 0, 0, 0.788)), url(./img-1.jpg);
-  background-size: contain;
+  background-size: cover;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -49,9 +49,9 @@ h3 {
   background-color: #9f68e0;
   border: 0;
   border-radius: 1rem;
-  box-shadow: 7px 9px 26px 5px rgba(0, 0, 0, 0.53);
-  -webkit-box-shadow: 7px 9px 26px 5px rgba(0, 0, 0, 0.53);
-  -moz-box-shadow: 7px 9px 26px 5px rgba(0, 0, 0, 0.53);
+  box-shadow: 10px 10px 21px 0px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: 10px 10px 21px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 10px 10px 21px 0px rgba(0, 0, 0, 0.75);
   padding: 1.4rem 4rem;
   font-size: 1.6rem;
   cursor: pointer;
